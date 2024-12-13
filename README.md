@@ -34,23 +34,17 @@ Estou pronto para contribuir em projetos ambiciosos e crescer junto com profissi
   </div>
 
 # 📊 Estatísticas
-<div style="text-align: center;" align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kau4dev&show_icons=true&theme=maroongold&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kau4dev&theme=maroongold&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</div>
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kau4dev&show_icons=true&include_all_commits=true&count_private=true&line_height=25&&border_radius=3&locale=pt-br&theme=maroongold" 
+    alt="Estatísticas do GitHub" 
+    style="border: 1px solid white;">
+  <br>
+ <a href="https://github.com/kau4dev/github-readme-stats">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kau4dev&layout=compact&card_width=290&langs_count=9&locale=pt-br&theme=maroongold" 
+    alt="Linguagens mais usadas" 
+    style="border: 1px solid white;">
+</a>
 
 #
 
