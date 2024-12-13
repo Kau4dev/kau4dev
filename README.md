@@ -34,19 +34,23 @@ Estou pronto para contribuir em projetos ambiciosos e crescer junto com profissi
   </div>
 
 # 📊 Estatísticas
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kau4dev&show_icons=true&include_all_commits=true&count_private=true&line_height=25&&border_radius=3&locale=pt-br&theme=maroongold" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kau4dev&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=maroongold" 
     alt="Estatísticas do GitHub" 
     style="border: 1px solid white;">
   <br>
- <a href="https://github.com/kau4dev/github-readme-stats">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kau4dev&layout=compact&card_width=290&langs_count=9&locale=pt-br&theme=maroongold" 
-    alt="Linguagens mais usadas" 
-    style="border: 1px solid white;">
-</a>
+  <a href="https://github.com/kau4dev/github-readme-stats">
+    <img 
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kau4dev&layout=compact&langs_count=9&locale=pt-br&theme=maroongold" 
+      alt="Linguagens mais usadas" 
+      style="border: 1px solid white;">
+  </a>
+</div>
 
-#
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kau4dev/kau4dev/output/github-contribution-grid-snake-dark.svg">
