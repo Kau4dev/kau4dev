@@ -16,7 +16,7 @@ Estou pronto para contribuir em projetos ambiciosos e crescer junto com profissi
 
 ##
 
-<div> 
+<div>
   <a href="https://instagram.com/iamkauav" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kauavictordev7"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/kaua-victor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -33,9 +33,8 @@ Estou pronto para contribuir em projetos ambiciosos e crescer junto com profissi
 </div>
   </div>
 
-### 📊 Estatísticas
-
-<p>
+# 📊 Estatísticas
+<div style="text-align: center;" align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -51,7 +50,7 @@ Estou pronto para contribuir em projetos ambiciosos e crescer junto com profissi
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kau4dev&theme=maroongold&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</div>
 
 #
 
