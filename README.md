@@ -1,54 +1,52 @@
-# 👩🏻‍💻 kauã victor
+# 👩🏻‍💻 Kauã Victor
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full Stack`**
 
-_Desenvolvedor em Formação | Foco em Full Stack_
+Desenvolvedor Full Stack graduado em Análise e Desenvolvimento de Sistemas. Especialista em construir aplicações escaláveis utilizando **Java (Spring Boot)** e **TypeScript/JavaScript (React/Node)**. Tenho experiência em fábricas de software, trabalhando com arquiteturas modernas e metodologias ágeis.
 
-Sou um estudante dedicado à área de programação, atualmente focado no desenvolvimento Full Stack. Em constante aprendizado e aprimoramento, estou em busca de oportunidades desafiadoras para colaborar em projetos inovadores, onde possa aplicar minhas habilidades técnicas e criativas. Meu objetivo é contribuir para o sucesso das equipes em que atuo, com uma abordagem proativa e comprometida com a qualidade.
+* 🔭 **Atualmente:** Focado em microserviços, mensageria com Kafka e projetos de automação.
+* ⚡ **Habilidades:** DDD, SOLID, Integração de APIs e Web Scraping.
 
-_Habilidades:_
+---
 
-- Interesse em back-end e front-end
-- Capacidade de trabalho em equipe e resolução de problemas complexos
-- Aprendizado contínuo e adaptação a novas tecnologias
+### 🤖 Stack Tecnológica
 
-Estou pronto para contribuir em projetos ambiciosos e crescer junto com profissionais experientes no setor. Vamos construir o futuro da tecnologia juntos!
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-##
+**Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<div>
-  <a href="https://instagram.com/iamkauav" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kauavictordev7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kaua-victor" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+**Ferramentas e Outros**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<div> <div style="display: inline_block"><br>
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+### 📫 Conecte-se comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kaua-victor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/iamkauav" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:kauavictordev7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-  </div>
 
-# 📊 Estatísticas
+---
+
+### 📊 Estatísticas
 <div align="center">
-  <br>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=kau4dev&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=maroongold" 
-    alt="Estatísticas do GitHub" 
-    style="border: 1px solid white;">
-  <br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kau4dev&layout=compact&langs_count=9&locale=pt-br&theme=maroongold" 
-      alt="Linguagens mais usadas" 
-      style="border: 1px solid white;">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kau4dev&show_icons=true&theme=maroongold&locale=pt-br" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kau4dev&layout=compact&theme=maroongold&locale=pt-br" alt="Linguagens mais usadas">
 </div>
 
 
