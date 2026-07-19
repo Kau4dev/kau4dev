@@ -45,8 +45,8 @@ Desenvolvedor Full Stack graduado em Análise e Desenvolvimento de Sistemas. Esp
 
 ### 📊 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kau4dev&show_icons=true&theme=maroongold&locale=pt-br" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kau4dev&layout=compact&theme=maroongold&locale=pt-br" alt="Linguagens mais usadas">
+  <img src="https://github-stats-extended.vercel.app/api?username=kau4dev&show_icons=true&theme=maroongold&locale=pt-br" alt="Estatísticas do GitHub">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kau4dev&layout=compact&theme=maroongold&locale=pt-br" alt="Linguagens mais usadas">
 </div>
 
 
